@@ -72,3 +72,11 @@ for i in range(5):
   if x == guess:
     print("found!")
 ```
+
+## explanation
+
+All this shows is that no programming language is better than the other,
+They all can achieve the same goal. Only 
+difference is that they are used for different
+tasks and some can reach the goal faster for that
+specific task.
