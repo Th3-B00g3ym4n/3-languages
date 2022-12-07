@@ -79,4 +79,4 @@ All this shows is that no programming language is better than the other,
 They all can achieve the same goal. Only 
 difference is that they are used for different
 tasks and some can reach the goal faster for that
-specific task.
+specific task opposed to other languages.
