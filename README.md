@@ -1,6 +1,7 @@
 # 3-languages
 This is the same program with the same functionality but in 3 different languages 
 
+## C++
 
 ```C++
 #include <iostream>
@@ -33,6 +34,7 @@ int main() {
 }
 ```
 
+## Lua
 
 ```Lua
 io.write("Enter Guess: ")
@@ -52,6 +54,8 @@ for var=1,5 do
   end    
 end
 ```
+
+## Python
 
 ```python
 
